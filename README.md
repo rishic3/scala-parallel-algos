@@ -1,1 +1,1 @@
-# scala-ml
+# parallel algorithms in scala
